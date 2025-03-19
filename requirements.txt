@@ -1,0 +1,13 @@
+tensorflow==2.15.0
+pandas
+prettytable
+pyqt5
+matplotlib
+ReliefF
+phasepack
+seaborn
+tabulate
+prettytable
+scikit-learn
+Py_FS
+numpy
